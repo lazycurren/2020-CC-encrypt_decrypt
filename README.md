@@ -20,7 +20,7 @@ example:
 
 -------------------------------------------------
 
-I made this Program as a Minor Credit Project in 2019 during my bachelor's education. Nothing groundbreaking or special in it, it's just a convoluted but still a secure model that encrypts and sends credit data through several existing algorithms. (It was pointless but still a good exercise to build an encryption application based on existing algorithms from scratch. Helped me learn and implement the mathematics involved in AES and RSA encryption models)
+I made this Program as a Minor Credit Project in 2019 during my bachelor's education. Nothing groundbreaking or special in it, it's just a convoluted but still a secure model that encrypts and sends credit card data through several existing algorithms. (It was pointless but still a good exercise to build an encryption application based on existing algorithms from scratch. Helped me learn and implement the mathematics involved in AES and RSA encryption models)
 
 Algorithm flow:
 
